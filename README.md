@@ -1,16 +1,14 @@
-## Hi there 👋
+# David M. Freeman
+### Technical Data Analyst & Data Operations Specialist
+[Portfolio Website](https://david-freeman-path.lovable.app/) | DavidFreeman4570@gmail.com
 
-<!--
-**D-Free33/D-Free33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Thesis
+Industrial Engineering background applied to data infrastructure, relational database engineering, and automated ETL pipelines. Experienced in mapping multi-layered schema architectures, auditing complex code logic for high-fidelity model training, and eliminating operational tracking friction through repeatable automated scripts.
 
-Here are some ideas to get you started:
+## Core Core Stack & Competencies
+* **Languages & Logic:** SQL (Advanced Joins, CTEs, Window Functions), Python (Pandas, NumPy, REST API Ingestion), JavaScript
+* **Data Engineering & BI:** Schema Optimization, Relational Data Normalization, RDBMS (Oracle SQL), Excel Power Query/M
+* **Systems Evaluation:** Code Complexity Auditing, Syntax Verification, Boundary-Asset Logic Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Infrastructure
+* 🚀 [Crypto Market Risk Engine](https://github.com/D-Free33/Crypto-Market-Risk-Engine) - Live pipeline ingesting, validating, and structuring real-time digital asset volatility metrics.
